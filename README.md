@@ -12,6 +12,6 @@
    <p align="center">
    <img src="https://github.com/turopov/Calculator-App/blob/master/screen_1.png" width="400" height="900">
    </p>
-   
-   <img src="https://github.com/turopov/Calculator-App/blob/master/screen_1.png" width="400" height="900">
+   <p align="center">
+   <img src="https://github.com/turopov/Calculator-App/blob/master/screen_2.png" width="400" height="900">
    </p>
