@@ -10,6 +10,8 @@
    <h2 align="center">Screenshots</h2><br>
 
    <p align="center">
-   <img src="https://github.com/turopov/Calculator-App/blob/master/screen_1.png" width="400" height="900" style="margin-right: 30px">
-   <img src="https://github.com/turopov/Calculator-App/blob/master/screen_2.png" width="400" height="900">
+   <img src="https://github.com/turopov/Calculator-App/blob/master/screen_1.png" width="400" height="900">
+   </p>
+   
+   <img src="https://github.com/turopov/Calculator-App/blob/master/screen_1.png" width="400" height="900">
    </p>
