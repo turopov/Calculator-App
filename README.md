@@ -7,7 +7,7 @@
       Application version is 1.0
    </p>
    
-   <h2 align="center">Screenshots</h2><br>
+   <h2 align="center">Screenshot</h2><br>
 
    <p align="center">
    <img src="https://github.com/turopov/Calculator-App/blob/master/screen_1.png" width="400" height="900">
